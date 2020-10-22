@@ -1,4 +1,4 @@
-# Analysis of sales in 2012-2014 in a certain company using Python.
+# Analysis of sales in 2012-2014 in a certain company using Python
 ### Author: Adrian Żelazek
 
 In this project was used dataset concerning sales data of a certain company between 2012 and Q3 2014. The dataset contains 88475 records as well as 13 columns. The main target of this project was to perform a sales analysis of a certain company and inferring based on the results obtained. This project was developed for the purpose of practicing data analysis and visualization using Python.
