@@ -3,7 +3,7 @@
 
 In this project was used dataset concerning sales data of a certain company between 2012 and Q3 2014. The dataset contains 88475 records as well as 13 columns. The main target of this project was to perform a sales analysis of a certain company and inferring based on the results obtained. This project was developed for the purpose of practicing data analysis and visualization using Python.
 
-##### It is preferred to run/view the project via Jupyter Notebook (.ipynb) than via a browser (HTML).
+##### It is preferred to run/view the project via Jupyter Notebook (.ipynb) than via a browser (HTML). To see the HTML version you first need to download the HTML file and then run it in your browser.
 
 ### Programming language and platform
 * Python - version : 3.7.4
